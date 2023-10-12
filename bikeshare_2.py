@@ -155,7 +155,7 @@ def user_stats(df, city):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
-    # Display counts of user types
+    # Display counts of user types for clarity
     print('User Types in Data are: ', df['User Type'].value_counts())
 
     # Check if the columns Gender and Birth Year exist in the DataFrame (not available in Washington data)
@@ -176,7 +176,7 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
 
-# View raw data to the user
+# View raw data to the user to see
 def show_raw_data(df):
     row = 0
     while True:
