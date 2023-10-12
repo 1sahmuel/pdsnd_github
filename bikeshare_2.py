@@ -8,7 +8,7 @@ CITY_DATA = {
     'washington': 'washington.csv'
 }
 
-# Lists for month and day to check user input validity
+# Lists of month and day for checking user input validity
 month_list = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 weekday_list = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
 

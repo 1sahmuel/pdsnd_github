@@ -6,8 +6,8 @@
 ### Project Title
 Udacity github project
 
-### Description
- Learning how to fork repo, create branch and merge all branches
+### Description of the project
+ Learning how to fork repo, create branch, git pull and merge all branches
 
 ### Files used
 Bikeshare, csv.
